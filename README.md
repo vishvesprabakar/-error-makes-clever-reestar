@@ -25,7 +25,7 @@ Welcome to my Reestar e-commerce website project! This site is a showcase of my 
 
 ## How to Use
 
-Simply navigate to [https://vishvesprabakar.github.io/error-makes-clever-portfolio/] to explore my work and learn more about me.
+Simply navigate to [https://vishvesprabakar.github.io/-error-makes-clever-reestar/] to explore my work and learn more about me.
 
 ## Contributing
 
