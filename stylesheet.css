@@ -1,0 +1,95 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Young Serif', serif;
+}
+
+.container {
+    padding: 50px;
+}
+
+.section-one {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.section-two {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}     
+
+li{
+    text-align: center;
+    display:inline-block;
+    color:gray;
+    cursor:pointer;
+    
+}
+li:hover{
+    color:red;
+}
+
+ul{
+    padding:20px;
+    text-align:center;
+}
+input{
+    width: 200px;
+    padding: 10px;
+}
+.section-three{
+    text-align:center;
+    padding-top:20px;
+   
+}
+.box{
+    border:solid black 3px;
+    display: inline-block;
+    width: 250px;
+    height: 500px;
+    padding: 10px;
+    text-align: center;
+}
+img{
+    width: 250px;
+    height: 330px;
+}
+h2{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.send{
+    text-align:center;
+    color: black;
+    padding: 10px;
+}
+
+.send-button {
+    background-color: black;
+    color: white;
+    display: block;
+    margin: auto;
+    width: 100px;  
+    height: 30px;  
+    margin-bottom: 20px; /* Add this line */
+}
+
+.contact {
+    padding: 20px;
+    
+    color: black;
+}
